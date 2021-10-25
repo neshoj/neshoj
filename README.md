@@ -10,8 +10,8 @@ I am a software developer who is passionate about web applications development u
 <center>
   <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=victorkabata&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkabata&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=neshoj&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshoj&hide=html&layout=compact&theme=dark" /></td>
   </tr>   
 </table>
 </center>
