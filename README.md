@@ -1,6 +1,6 @@
 ## Hi 👋 I am Ignatius! However, call me Nesh  
 
-I am a software developer who is passionate about web applications development using Angular, React, NodeJs and Springboot Java. I am proficient in Java, Javascript, NodeJs, Python, Azure, AWS, MySQL, PostgreSQL, MongoDB, Ansible, Containerization and Jenkins. Recently, I have just started product management and UX!
+I am a software developer who is passionate about web applications development using Angular, React, NodeJs and Springboot Java. Recently, I have just started product management and UX!
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in software testing, technical team management, data structures and algorithms.
 - 🤝 Open for collaborations in software developmemt.
