@@ -1,6 +1,6 @@
 ## Hi 👋 I am Ignatius! However, call me Nesh  
 
-I am a software developer who is passionate about web applications development using Angular, React, NodeJs and Springboot Java. Recently, I have just started product management and UX!
+I am a software developer who is passionate about web applications development using Angular, NodeJs and Springboot Java. Recently, I have just started learning product management and UX! I am an engineering manager with over 5 years experience leading technical teams
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in software testing, technical team management, data structures and algorithms.
 - 🤝 Open for collaborations in software developmemt.
