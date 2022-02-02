@@ -1,10 +1,8 @@
 ## Hi 👋 I am Ignatius! However, call me Nesh  
 
-I am a software developer who is passionate about web applications development using Angular, NodeJs and Springboot Java. Recently, I have just started learning product management and UX! I am an engineering manager with over 5 years experience leading technical teams
+I am a software developer passionate about web applications development using Angular, NodeJs and Java using Springboot framework. Recently, I have just started learning product management and UX! I do have over 5 years experience leading technical teams in different capacities
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in software testing, technical team management, data structures and algorithms.
-- 🤝 Open for collaborations in software developmemt.
-- 😊 Willing to contribute in opensource development projects.
+- 👨🏽‍💻 Always learning and growing my skillset in software development, technical team management and project management.
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/ignatius-ojiambo-a56b2146) 
 
 <center>
