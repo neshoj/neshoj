@@ -9,8 +9,12 @@ I am a decade-old software engineer passionate about web application development
   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=neshoj&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshoj&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=neshoj&layout=compact&theme=dark" alt="Ignatius Ojiambo" /></td>
+      <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshoj&hide=html&layout=compact&theme=dark" /></td>
   </tr>   
+  <tr>
+    <a href="https://wakatime.com/@NeshOj">
+     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=neshoj&layout=compact&theme=dark" alt="Ignatius Ojiambo" /></td>
+    </a>
+   </tr>
 </table>
 </center>
