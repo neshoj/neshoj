@@ -12,7 +12,7 @@ I am a decade-old software engineer passionate about web application development
       <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshoj&hide=html&layout=compact&theme=dark" /></td>
   </tr>   
   <tr>
-    <td colspan="1">
+    <td>
     <a href="https://wakatime.com/@NeshOj">
      <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=neshoj&layout=compact&theme=dark" alt="Ignatius Ojiambo" /></td>
     </a>
